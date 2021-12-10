@@ -8,5 +8,3 @@ hello
 gitcreds_set(url = "https://github.com/kkkrystal85/gis_code.git")
 
 hhhh
-
-hhhh
